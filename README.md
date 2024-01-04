@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/simple-login-app.git
+git clone [https://github.com/your-username/simple-login-app.git](https://github.com/KaveeshaKaru/Simple_Loggin_App.git)
 Open the project in Android Studio.
 
 Build and run the app on an emulator or a physical Android device.
